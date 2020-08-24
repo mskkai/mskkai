@@ -35,22 +35,30 @@ Here are some ideas to get you started:
 
 ⚡ Experienced in product development using Agile Methodologies having exposure to scrum models.
 
+---- 
 
 📫 How to reach me: msasikumarbeeee@gmail.com
 
+
 💬 Ask me about: Java / Javascript / UI
+
 
 😄 Favorite Quote:
 
            It is not the beauty of a building you should look at; 
            its the construction of the foundation that will stand the test of time. David Allan Coe
 
+
 🌱 Checkout some of my works that exposes my interests towards UI and app development below
 
    https://mskkai-expense-manager-app.herokuapp.com/
+   
    https://sketch-pad.web.app/
+   
    https://mskkai-grand-hotel.web.app/
+   
    https://mskkai-furniture-store.web.app/
+   
    https://msk-weather-app.herokuapp.com/
 
 👯 Currently I am working on, nurturing a product that would enhance the operation, management, learning experiences at schools
