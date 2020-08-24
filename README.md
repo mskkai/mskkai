@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ⚡ Experienced in proactively offering and applying/developing suggestions and solutions to online application problems and following up to ensure successful resolution of issues.
 
-⚡ Actively involved in developing enterprise product features using UI technologies JavaScript, Angular 6+, React, Redux, NgRX, HTML, CSS.
+⚡ Actively working on developing enterprise product features using UI technologies JavaScript, Angular 6+, React, Redux, NgRX, HTML, CSS.
 
 ⚡ Experienced in developing products using Core Java, J2EE, JSF, Primefaces, Rest API, JPA frameworks.
 
