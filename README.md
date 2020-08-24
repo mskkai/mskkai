@@ -60,5 +60,3 @@ Here are some ideas to get you started:
    https://mskkai-furniture-store.web.app/
    
    https://msk-weather-app.herokuapp.com/
-
-👯 Currently I am working on, nurturing a product that would enhance the operation, management, learning experiences at schools
