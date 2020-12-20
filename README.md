@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 ⚡ Actively working on developing enterprise product features using UI technologies JavaScript, Typescript, NodeJS, React, Redux, Angular, NgRX, HTML, CSS.
 
-⚡ Experienced in developing products using Core Java, J2EE, JSF, Primefaces, Rest API, JPA frameworks.
+⚡ Experienced in developing products using Core Java & J2EE.
 
-⚡ Experienced in SQL designing, development using enterprise database software like Oracle SQL, Postgres, MySQL, MongoDB, Firebase. 
+⚡ Experienced in using enterprise database software like Oracle SQL, Postgres, MySQL, MongoDB, Firebase. 
 
 ⚡ Expertise in resolving critical problems with optimal solutions.
 
