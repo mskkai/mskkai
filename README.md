@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🔭 Working as a Senior Product Development Engineer.
  
-⚡ Check out my profile at http://sasikumar.web.app/
+⚡ Check out my profile at https://sasikumar.web.app
 
 ## &#x1f4c8; My GitHub Stats
 
@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 
 🌱 Checkout some of my personal development apps below
 
-   https://mskkai-expense-manager-app.herokuapp.com/
+   https://mskkai-expense-manager-app.herokuapp.com
    
-   https://sketch-pad.web.app/
+   https://sketch-pad.web.app
    
-   https://mskkai-grand-hotel.web.app/
+   https://mskkai-grand-hotel.web.app
