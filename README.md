@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🔭 Working as a Senior Product Development Engineer.
  
- ⚡Check out my profile at http://sasikumar.web.app/
+⚡ Check out my profile at http://sasikumar.web.app/
 
 ## &#x1f4c8; My GitHub Stats
 
