@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Myself, Sasi Kumar Manickam
 
 <!--
 **mskkai/mskkai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,54 +17,19 @@ Here are some ideas to get you started:
 
 🔭 Working as a Senior Product Development Engineer.
  
-⚡ Experienced in finding the optimal design and implementation solution for the anonymous, ambiguous requirements, by in-depth analysis and by conducting reviews with various stakeholders for the product.
-
-⚡ Experienced in proactively offering and applying/developing suggestions and solutions to online application problems and following up to ensure successful resolution of issues.
-
-⚡ Actively working on developing enterprise product features using UI technologies JavaScript, Typescript, NodeJS, React, Redux, Angular, NgRX, HTML, CSS.
-
-⚡ Experienced in developing products using Core Java & J2EE.
-
-⚡ Experienced in using enterprise database software like Oracle SQL, Postgres, MySQL, MongoDB, Firebase. 
-
-⚡ Expertise in resolving critical problems with optimal solutions.
-
-⚡ Experienced in developing a Responsive / Adaptive Web Design application supporting various scales of devices.
-
-⚡ Experienced in Test Case Driven Development Methodologies. 
+ ⚡Check out my profile at http://sasikumar.web.app/
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<mskkai>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mskkai&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Sasi's GitHub stats](https://github-readme-stats.vercel.app/api?username=<mskkai>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-⚡ Experienced in product development using Agile Methodologies having exposure to scrum models.
-
----- 
-
-📫 How to reach me: msasikumarbeeee@gmail.com
+[![Sasi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mskkai&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-💬 Ask me about: Java / Javascript / NodeJS/ UI
-
-
-😄 Favorite Quote:
-
-           It is not the beauty of a building you should look at; 
-           its the construction of the foundation that will stand the test of time. David Allan Coe
-
-
-🌱 Checkout some of my works that exposes my interests towards UI and app development below
+🌱 Checkout some of my personal development apps below
 
    https://mskkai-expense-manager-app.herokuapp.com/
    
    https://sketch-pad.web.app/
    
    https://mskkai-grand-hotel.web.app/
-   
-   https://mskkai-furniture-store.web.app/
-   
-   https://msk-weather-app.herokuapp.com/
